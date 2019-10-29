@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toast.makeText(this,"HelloWorld",Toast.LENGTH_SHORT).show();
 
-        Log.d(TAG,"LOG TEST");
+        Log.d(TAG,"LOG TEST1");
         Log.d(TAG,"LOG TEST2");
 
     }
